@@ -1,0 +1,10 @@
+{
+  "description": "Discover a premium mobile-first e-commerce platform for fresh vegetables and fruits in Egypt, featuring a smooth, engaging shopping experience in Arabic.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

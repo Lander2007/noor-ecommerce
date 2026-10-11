@@ -1,0 +1,10 @@
+import { Suspense } from "react"
+import Shop from "@/components/Shop"
+
+export default function ShopPage() {
+  return (
+    <Suspense>
+      <Shop />
+    </Suspense>
+  )
+}
